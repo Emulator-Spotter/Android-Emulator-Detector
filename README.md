@@ -6,7 +6,7 @@ Android Emulator detector is a demo of the Emulator Spotter library that detects
 
 Unity demo running in Bluestacks
 ------------------------------------
-[![Emulator Spotter working inside a Unity game](https://youtu.be/Mrhs1XUM8-k)
+[![Emulator Spotter working inside a unity game](https://img.youtube.com/vi/Mrhs1XUM8-k/0.jpg)](https://youtu.be/Mrhs1XUM8-k)
 
 Demo running on different emulators:
 ------------------------------------
