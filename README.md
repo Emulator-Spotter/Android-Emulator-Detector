@@ -4,6 +4,9 @@ Android Emulator detector is a demo of the Emulator Spotter library that detects
 
 [**Download Demo APK**](https://github.com/felHR85/Android-Emulator-Detector/releases/download/1.3/app-release.apk)
 
+Unity demo running in Bluestacks
+------------------------------------
+[![Emulator Spotter working inside a Unity game](https://youtu.be/Mrhs1XUM8-k)
 
 Demo running on different emulators:
 ------------------------------------
