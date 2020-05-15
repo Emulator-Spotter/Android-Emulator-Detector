@@ -2,7 +2,8 @@
 Android Emulator detector is a demo of the Emulator Spotter library that detects if your app or game is running on an emulator.\
 [**For further questions, princing... Please write us an email**](emulator_spotter@protonmail.com)
 
-[**Download Demo APK**](https://github.com/felHR85/Android-Emulator-Detector/releases/download/1.3/app-release.apk)
+[**Download Demo APK**](https://github.com/felHR85/Android-Emulator-Detector/releases/download/1.3/app-release.apk)\
+[**Download Unity Demo APK**](https://github.com/felHR85/Android-Emulator-Detector/releases/download/Unity/FpsAndroid.apk)
 
 Unity demo running in Bluestacks
 ------------------------------------
